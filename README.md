@@ -4,7 +4,7 @@
 
 A project activity for [Girls Into Coding](https://www.girlsintocoding.com/) using a online version of the free open source [Webots](https://www.cyberbotics.com/) robot simulator.
 
-This activity is generated as a webpage at [https://meisben.github.io/girlsIntoCoding-robotbenchmark-activity2/](https://meisben.github.io/girlsIntoCoding-robotbenchmark-activity2/)
+This activity is generated as a webpage at [https://samhohcm.github.io/RobotSimulatorKinematics/](https://samhohcm.github.io/RobotSimulatorKinematics/)
 
 ## Contents
 
@@ -22,13 +22,13 @@ This activity uses [robotbenchmark](https://robotbenchmark.net/), which is a onl
 
 ## Accessing the activity webpage
 
-Simply point your browser to [https://meisben.github.io/girlsIntoCoding-robotbenchmark-activity2/](https://meisben.github.io/girlsIntoCoding-robotbenchmark-activity2/)
+Simply point your browser to [https://samhohcm.github.io/RobotSimulatorKinematics/](https://samhohcm.github.io/RobotSimulatorKinematics/)
 
 ## Contributing
 
 Coding, testing, and worksheet draft by [Sam Hoh](https://github.com/samhohcm) based on meisben's first Robot Simulator workshop.
 
-Feel free very welcome to contribute if you find any errors in this activity, by initiating a pull request.
+Feel free to contribute if you find any errors in this activity, by initiating a pull request.
 
 ## Credit
 
